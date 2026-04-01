@@ -32,6 +32,7 @@
 30. [Chapter 30: Le grand vide intérieur (Conclusion)](#chapter-30-le-grand-vide-intérieur-conclusion)
 
 ## Chapter 1: Miami, la nuit et l'appétit de Dexter
+
 Ça va recommencer : 다시 시작될 것이다 (반복되는 운명/습관)
 
 Script: "Cette nuit, c'est la bonne. Et ça va recommencer, encore et encore."
