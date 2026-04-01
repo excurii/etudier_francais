@@ -1,67 +1,37 @@
-📑 목차
-- [Chapter 1: Miami, la nuit et l'appétit de Dexter](https://www.google.com/search?q=%23chapter-1)
-    
-- [Chapter 2: L'enlèvement de Mike Donovan](https://www.google.com/search?q=%23chapter-2)
-    
-- [Chapter 3: La confrontation et le rituel](https://www.google.com/search?q=%23chapter-3)
-    
-- [Chapter 4: Le passé de Dexter et Harry](https://www.google.com/search?q=%23chapter-4)
-    
-- [Chapter 5: La scène de crime au motel (Deborah)](https://www.google.com/search?q=%23chapter-5)
-    
-- [Chapter 6: L'expertise de la piscine (Pas de sang)](https://www.google.com/search?q=%23chapter-6)
-    
-- [Chapter 7: La rivalité avec Doakes au commissariat](https://www.google.com/search?q=%23chapter-7)
-    
-- [Chapter 8: L'analyse des projections de sang](https://www.google.com/search?q=%23chapter-8)
-    
-- [Chapter 9: La vie avec Rita et les enfants](https://www.google.com/search?q=%23chapter-9)
-    
-- [Chapter 10: Le camion frigorifique et Lagarta](https://www.google.com/search?q=%23chapter-10)
-    
-- [Chapter 11: Le passé traumatique (La mère de Dexter)](https://www.google.com/search?q=%23chapter-11)
-    
-- [Chapter 12: L'interrogatoire et la psychologie du tueur](https://www.google.com/search?q=%23chapter-12)
-    
-- [Chapter 13: La vie de bureau et les donuts](https://www.google.com/search?q=%23chapter-13)
-    
-- [Chapter 14: Le site web de Jaworski (Snuff Movie)](https://www.google.com/search?q=%23chapter-14)
-    
-- [Chapter 15: La confrontation avec Dox (Doakes)](https://www.google.com/search?q=%23chapter-15)
-    
-- [Chapter 16: Les doutes de Deborah sur sa carrière](https://www.google.com/search?q=%23chapter-16)
-    
-- [Chapter 17: Dexter et les enfants de Rita (Cody et Astor)](https://www.google.com/search?q=%23chapter-17)
-    
-- [Chapter 18: L'analyse de l'arme blanche](https://www.google.com/search?q=%23chapter-18)
-    
-- [Chapter 19: Le jeu du tueur (Le message dans la maison)](https://www.google.com/search?q=%23chapter-19)
-    
-- [Chapter 20: Conclusion de l'épisode 1 (Le Code d'Harry)](https://www.google.com/search?q=%23chapter-20)
-    
-- [Chapter 21: Les rituels de nettoyage (Nettoyer le corps)](https://www.google.com/search?q=%23chapter-21)
-    
-- [Chapter 22: La métaphore de la pêche (Marlin)](https://www.google.com/search?q=%23chapter-22)
-    
-- [Chapter 23: L'education d'Harry (Doris Morgan)](https://www.google.com/search?q=%23chapter-23)
-    
-- [Chapter 24: Le chaos et l'ordre (Sang et projections)](https://www.google.com/search?q=%23chapter-24)
-    
-- [Chapter 25: La personnalité de Deborah (Cœur d'or)](https://www.google.com/search?q=%23chapter-25)
-    
-- [Chapter 26: La frustration des mœurs (Lagarta vs Deb)](https://www.google.com/search?q=%23chapter-26)
-    
-- [Chapter 27: L'autopsie mentale (Lumières de Dexter)](https://www.google.com/search?q=%23chapter-27)
-    
-- [Chapter 28: L'psychologie de l'assassin (Artiste)](https://www.google.com/search?q=%23chapter-28)
-    
-- [Chapter 29: Le cynisme de Doakes (Enfoiré)](https://www.google.com/search?q=%23chapter-29)
-    
-- [Chapter 30: Le grand vide intérieur (Conclusion)](https://www.google.com/search?q=%23chapter-30)
+# 📑 목차 (바로가기)
 
-<a name="chapter-1"></a>
+1. [Chapter 1: Miami, la nuit et l'appétit de Dexter](#chapter-1-miami-la-nuit-et-lappétit-de-dexter)
+2. [Chapter 2: L'enlèvement de Mike Donovan](#chapter-2-lenlèvement-de-mike-donovan)
+3. [Chapter 3: La confrontation et le rituel](#chapter-3-la-confrontation-et-le-rituel)
+4. [Chapter 4: Le passé de Dexter et Harry](#chapter-4-le-passé-de-dexter-et-harry)
+5. [Chapter 5: La scène de crime au motel (Deborah)](#chapter-5-la-scène-de-crime-au-motel-deborah)
+6. [Chapter 6: L'expertise de la piscine (Pas de sang)](#chapter-6-lexpertise-de-la-piscine-pas-de-sang)
+7. [Chapter 7: La rivalité avec Doakes au commissariat](#chapter-7-la-rivalité-avec-doakes-au-commissariat)
+8. [Chapter 8: L'analyse des projections de sang](#chapter-8-lanalyse-des-projections-de-sang)
+9. [Chapter 9: La vie avec Rita et les enfants](#chapter-9-la-vie-avec-rita-et-les-enfants)
+10. [Chapter 10: Le camion frigorifique et Lagarta](#chapter-10-le-camion-frigorifique-et-lagarta)
+11. [Chapter 11: Le passé traumatique (La mère de Dexter)](#chapter-11-le-passé-traumatique-la-mère-de-dexter)
+12. [Chapter 12: L'interrogatoire et la psychologie du tueur](#chapter-12-linterrogatoire-et-la-psychologie-du-tueur)
+13. [Chapter 13: La vie de bureau et les donuts](#chapter-13-la-vie-de-bureau-et-les-donuts)
+14. [Chapter 14: Le site web de Jaworski (Snuff Movie)](#chapter-14-le-site-web-de-jaworski-snuff-movie)
+15. [Chapter 15: La confrontation avec Dox (Doakes)](#chapter-15-la-confrontation-avec-dox-doakes)
+16. [Chapter 16: Les doutes de Deborah sur sa carrière](#chapter-16-les-doutes-de-deborah-sur-sa-carrière)
+17. [Chapter 17: Dexter et les enfants de Rita (Cody et Astor)](#chapter-17-dexter-et-les-enfants-de-rita-cody-et-astor)
+18. [Chapter 18: L'analyse de l'arme blanche](#chapter-18-lanalyse-de-larme-blanche)
+19. [Chapter 19: Le jeu du tueur (Le message dans la maison)](#chapter-19-le-jeu-du-tueur-le-message-dans-la-maison)
+20. [Chapter 20: Conclusion de l'épisode 1 (Le Code d'Harry)](#chapter-20-conclusion-de-lépisode-1-le-code-dharry)
+21. [Chapter 21: Les rituels de nettoyage (Nettoyer le corps)](#chapter-21-les-rituels-de-nettoyage-nettoyer-le-corps)
+22. [Chapter 22: La métaphore de la pêche (Marlin)](#chapter-22-la-métaphore-de-la-pêche-marlin)
+23. [Chapter 23: L'éducation d'Harry (Doris Morgan)](#chapter-23-léducation-dharry-doris-morgan)
+24. [Chapter 24: Le chaos et l'ordre (Sang et projections)](#chapter-24-le-chaos-et-lordre-sang-et-projections)
+25. [Chapter 25: La personnalité de Deborah (Cœur d'or)](#chapter-25-la-personnalité-de-deborah-cœur-dor)
+26. [Chapter 26: La frustration des mœurs (Lagarta vs Deb)](#chapter-26-la-frustration-des-mœurs-lagarta-vs-deb)
+27. [Chapter 27: L'autopsie mentale (Lumières de Dexter)](#chapter-27-lautopsie-mentale-lumières-de-dexter)
+28. [Chapter 28: L'psychologie de l'assassin (Artiste)](#chapter-28-lpsychologie-de-lassassin-artiste)
+29. [Chapter 29: Le cynisme de Doakes (Enfoiré)](#chapter-29-le-cynisme-de-doakes-enfoiré)
+30. [Chapter 30: Le grand vide intérieur (Conclusion)](#chapter-30-le-grand-vide-intérieur-conclusion)
 
-## Chapter 1: Miami, la nuit et l'appétit de Dexter
+##Chapter 1: Miami, la nuit et l'appétit de Dexter
 Ça va recommencer : 다시 시작될 것이다 (반복되는 운명/습관)
 
 Script: "Cette nuit, c'est la bonne. Et ça va recommencer, encore et encore."
@@ -142,7 +112,7 @@ S'en prendre à quelqu'un : ~를 공격하다/해치다
 
 Script: "Je ne m'en prendrai jamais à un enfant."
 
-<a name="chapter-2"></a>
+<a id="ch2"></a>
 
 ## Chapter 2: L'enlèvement de Mike Donovan
 Avoir le sens des valeurs : 가치관을 가지고 있다
@@ -225,7 +195,7 @@ Mettre un peu d'ordre : 질서를 잡다/정리하다
 
 Script: "Me permet de mettre un peu d'ordre dans ce chaos."
 
-<a name="chapter-3"></a>
+<a id="ch3"></a>
 
 ## Chapter 3: La confrontation et le rituel
 Observé à la lettre : 글자 그대로 준수된 (엄격히 지켜지는)
@@ -308,7 +278,7 @@ Tirer une leçon : 교훈을 얻다
 
 Script: "Alors tire-en une leçon."
 
-<a name="chapter-4"></a>
+<a id="ch4"></a>
 
 ## Chapter 4: Le passé de Dexter et Harry
 S'investir trop : 너무 몰입하다/감정적으로 쏟아붓다
@@ -391,7 +361,7 @@ M'embrouille les idées : 내 생각을 혼란스럽게 하다
 
 Script: "Pas de sang. Ça m'embrouille les idées, il faut vite que je m'en aille."
 
-<a name="chapter-5"></a>
+<a id="ch5"></a>
 
 ## Chapter 5: La scène de crime au motel (Deborah)
 Rituel de femelle : 암컷의 의식 (여성들의 행동을 비하적으로 묘사)
@@ -474,7 +444,7 @@ Filer la pétoche : (구어체) 겁을 주다
 
 Script: "Ça me file la pétoche rien de t'entendre."
 
-<a name="chapter-6"></a>
+<a id="ch6"></a>
 
 ## Chapter 6: L'expertise de la piscine (Pas de sang)
 Analyses ces putains de giclées : 저 빌어먹을 튄 자국들을 분석해라
@@ -557,7 +527,7 @@ Faire des sacrifices : 희생을 하다
 
 Script: "Mais, il faut bien faire des sacrifices de temps en temps."
 
-<a name="chapter-7"></a>
+<a id="ch7"></a>
 
 ## Chapter 7: La rivalité avec Doakes au commissariat
 Tombé amoureux : 사랑에 빠지다
@@ -640,7 +610,7 @@ Aussi abîmée que moi : 나만큼이나 상처 입은/망가진
 
 Script: "Peut-être parce qu'à sa façon, elle est aussi abîmée que moi."
 
-<a name="chapter-8"></a>
+<a id="ch8"></a>
 
 ## Chapter 8: L'analyse des projections de sang
 Je fais vite : 빨리 할게
@@ -723,7 +693,7 @@ Goutte de sang dans ma collection : 내 수집품의 피 한 방울
 
 Script: "Avant qu'il ne devienne une autre goutte de sang dans ma collection de lamelles."
 
-<a name="chapter-9"></a>
+<a id="ch9"></a>
 
 ## Chapter 9: La vie avec Rita et les enfants
 Éclaire-moi : 나를 깨우쳐 줘 (설명해 줘)
@@ -806,7 +776,7 @@ Régler son compte : 결판을 내다/죽이다
 
 Script: "Lui, il lui a réglé son compte rapidement."
 
-<a name="chapter-10"></a>
+<a id="ch10"></a>
 
 ## Chapter 10: Le camion frigorifique et Lagarta
 Tirer par les cheveux : 억지로 끌어다 붙인 (억지스러운)
@@ -889,7 +859,7 @@ Violé dans mon intimité : 사생활을 침해당하다
 
 *Script: "A priori, je devrais me sentir contrarié, ou même violé dans mon intimité."
 
-<a name="chapter-11"></a>
+<a id="ch11"></a>
 ## Chapter 11: Le passé traumatique (La mère de Dexter)
 Un grand vide : 큰 공허함
 
@@ -971,7 +941,7 @@ Lumière : 조명/빛
 
 Script: "Le pire des meurtres a l'air d'une mise en scène sous cette lumière."
 
-<a name="chapter-12"></a>
+<a id="ch12"></a>
 
 ## Chapter 12: L'interrogatoire et la psychologie du tueur
 Faire frémir : 전율하게 하다
@@ -1054,7 +1024,7 @@ Gagner en assurance : 확신을 얻다
 
 Script: "Gagner en assurance. D'accord, je vais y jeter un coup d'œil."
 
-<a name="chapter-13"></a>
+<a id="ch13"></a>
 
 ## Chapter 13: La vie de bureau et les donuts
 Éviter quelqu'un : 누군가를 피하다
@@ -1137,7 +1107,7 @@ No trabajo : (스페인어 섞임) 일 안 해
 
 Script: "Ya pas de sang. No trabajo."
 
-<a name="chapter-14"></a>
+<a id="ch14"></a>
 
 ## Chapter 14: Le site web de Jaworski (Snuff Movie)
 Surpasser : 능가하다
@@ -1220,7 +1190,7 @@ Bar mitzvah : 유대인 성인식
 
 Script: "Je suis pas venu pour t'inviter à une bar mitzvah."
 
-<a name="chapter-15"></a>
+<a id="ch15"></a>
 
 ## Chapter 15: La confrontation avec Dox (Doakes)
 Enfoiré de débile : 멍청한 자식
@@ -1303,7 +1273,7 @@ Identifier aisément : 쉽게 알아보다
 
 Script: "Je pense qu'ils m'identifient aussi aisément."
 
-<a name="chapter-16"></a>
+<a id="ch16"></a>
 
 ## Chapter 16: Les doutes de Deborah sur sa carrière
 Sévices sexuels : 성적 학대
@@ -1386,7 +1356,7 @@ Chirurgical : 수술적인/정밀한
 
 Script: "Et la troisième, chirurgicale. Oui, bien."
 
-<a name="chapter-17"></a>
+<a id="ch17"></a>
 
 ## Chapter 17: Dexter et les enfants de Rita (Cody et Astor)
 Mettre l'os à nu : 뼈를 드러내다
@@ -1469,7 +1439,7 @@ Flux sanguin : 혈류
 
 Script: "Afin de travailler... qui ralentit la flu sanguin."
 
-<a name="chapter-18"></a>
+<a id="ch18"></a>
 
 ## Chapter 18: L'analyse de l'arme blanche
 Nette et mobile : 깔끔하고 이동 가능한
@@ -1552,7 +1522,7 @@ Crime passionnel : 치정 범죄
 
 Script: "C'est un simple crime passionnel. Le tueur est venu liquider la femme."
 
-<a name="chapter-19"></a>
+<a id="ch19"></a>
 
 ## Chapter 19: Le jeu du tueur (Le message dans la maison)
 L'ex : 전 남편/전 남자친구
@@ -1635,7 +1605,7 @@ Script: "Dox a bien appréhendé l'assassin des dealeurs."
 
 Script: "Comme vous dites, ça va de soi."
 
-<a name="chapter-20"></a>
+<a id="ch20"></a>
 
 ## Chapter 20: Conclusion de l'épisode 1 (Le Code d'Harry)
 Intelligence pareille : 그런 지능
@@ -1718,7 +1688,7 @@ Code : 코드/규칙
 
 Script: "Le code de mon père adoptif, Harry, est observé à la lettre."
 
-<a name="chapter-21"></a>
+<a id="ch21"></a>
 
 ## Chapter 21: Les rituels de nettoyage (Nettoyer le corps)
 Prendre du temps : 시간이 걸리다
@@ -1801,7 +1771,7 @@ Ne pas laisser de traces : 흔적을 남기지 않다
 
 Script: "Je suis un monstre qui ne laisse pas de traces."
 
-<a name="chapter-22"></a>
+<a id="ch22"></a>
 
 ## Chapter 22: La métaphore de la pêche (Marlin)
 Bonne pêche : 월척이다/낚시 잘했네
@@ -1884,7 +1854,7 @@ L'expert : 전문가/감정관
 
 Script: "Mais si, je suis l'expert. - Dex ? Salut, ça va ?"
 
-<a name="chapter-23"></a>
+<a id="ch23"></a>
 
 ## Chapter 23: L'éducation d'Harry (Doris Morgan)
 Atteindre des objectifs : 목표에 도달하다
@@ -1967,7 +1937,7 @@ Tranchée : 잘린/절단된
 
 Script: "Cette jambe-ci est tranchée en quatre parts égales."
 
-<a name="chapter-24"></a>
+<a id="ch24"></a>
 
 ## Chapter 24: Le chaos et l'ordre (Sang et projections)
 Mesurer : 측정하다/재다
@@ -2050,7 +2020,7 @@ Giclées de sang : 튀어 오른 피들
 
 Script: "Oui, je veux que tu m'analyses ces putains de giclées de sang."
 
-<a name="chapter-25"></a>
+<a id="ch25"></a>
 
 ## Chapter 25: La personnalité de Deborah (Cœur d'or)
 Bar mitzvah : 유대인 성인식
@@ -2133,7 +2103,7 @@ Traumatisés : 트라우마를 입은
 
 Script: "Laissant derrière elle deux petits garçons traumatisés à jamais."
 
-<a name="chapter-26"></a>
+<a id="ch26"></a>
 
 ## Chapter 26: La frustration des mœurs (Lagarta vs Deb)
 Mandat de perquisition : 수색 영장
@@ -2216,7 +2186,7 @@ Mode opératoire : 범행 수법
 
 Script: "Le même mode opératoire. Et pas de sang."
 
-<a name="chapter-27"></a>
+<a id="ch27"></a>
 
 ## Chapter 27: L'autopsie mentale (Lumières de Dexter)
 À la va-vite : 급히/대충
@@ -2299,7 +2269,7 @@ Volé : 도둑맞은
 
 Script: "C'est un camion frigo... Un camion volé sans doute."
 
-<a name="chapter-28"></a>
+<a id="ch28"></a>
 
 ## Chapter 28: L'psychologie de l'assassin (Artiste)
 Délire : 망상/헛소리
@@ -2382,7 +2352,7 @@ Intime : 친밀한
 
 Script: "D'avoir une relation intime, comme par exemple, son ex."
 
-<a name="chapter-29"></a>
+<a id="ch29"></a>
 
 ## Chapter 29: Le cynisme de Doakes (Enfoiré)
 Laiton : 황동
@@ -2465,7 +2435,7 @@ Câlin : 포옹
 
 Script: "Quoiqu'il était assez intéressant, ce petit câlin."
 
-<a name="chapter-30"></a>
+<a id="ch30"></a>
 
 ## Chapter 30: Le grand vide intérieur (Conclusion)
 S'emballer : 서두르다/열광하다
