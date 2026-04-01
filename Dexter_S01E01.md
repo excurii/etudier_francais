@@ -1,35 +1,63 @@
 📑 목차
-[[#Chapter 1 Miami, la nuit et l'appétit de Dexter]]
-[[#Chapter 2 L'enlèvement de Mike Donovan]]
-[[#Chapter 3 La confrontation et le rituel]]
-[[#Chapter 4 Le passé de Dexter et Harry]]
-[[#Chapter 5 La scène de crime au motel (Deborah)]]
-[[#Chapter 6 L'expertise de la piscine (Pas de sang)]]
-[[#Chapter 7 La rivalité avec Doakes au commissariat]]
-[[#Chapter 8 L'analyse des projections de sang]]
-[[#Chapter 8 L'analyse des projections de sang]]
-[[#Chapter 9 La vie avec Rita et les enfants]]
-[[#Chapter 10 Le camion frigorifique et Lagarta]]
-[[#Chapter 11 Le passé traumatique (La mère de Dexter)]]
-[[#Chapter 12 L'interrogatoire et la psychologie du tueur]]
-[[#Chapter 13 La vie de bureau et les donuts]]
-[[#Chapter 14 Le site web de Jaworski (Snuff Movie)]]
-[[#Chapter 15 La confrontation avec Dox (Doakes)]]
-[[#Chapter 16 Les doutes de Deborah sur sa carrière]]
-[[#Chapter 17 Dexter et les enfants de Rita (Cody et Astor)]]
-[[#Chapter 18 L'analyse de l'arme blanche]]
-[[#Chapter 19 Le jeu du tueur (Le message dans la maison)]]
-[[#Chapter 20 Conclusion de l'épisode 1 (Le Code d'Harry)]]
-[[#Chapter 21 Les rituels de nettoyage (Nettoyer le corps)]]
-[[#Chapter 22 La métaphore de la pêche (Marlin)]]
-[[#Chapter 23 L'éducation d'Harry (Doris Morgan)]]
-[[#Chapter 24 Le chaos et l'ordre (Sang et projections)]]
-[[#Chapter 25 La personnalité de Deborah (Cœur d'or)]]
-[[#Chapter 26 La frustration des mœurs (Lagarta vs Deb)]]
-[[#Chapter 27 L'autopsie mentale (Lumières de Dexter)]]
-[[#Chapter 28 L'psychologie de l'assassin (Artiste)]]
-[[#Chapter 29 Le cynisme de Doakes (Enfoiré)]]
-[[#Chapter 30 Le grand vide intérieur (Conclusion)]]
+- [Chapter 1: Miami, la nuit et l'appétit de Dexter](https://www.google.com/search?q=%23chapter-1)
+    
+- [Chapter 2: L'enlèvement de Mike Donovan](https://www.google.com/search?q=%23chapter-2)
+    
+- [Chapter 3: La confrontation et le rituel](https://www.google.com/search?q=%23chapter-3)
+    
+- [Chapter 4: Le passé de Dexter et Harry](https://www.google.com/search?q=%23chapter-4)
+    
+- [Chapter 5: La scène de crime au motel (Deborah)](https://www.google.com/search?q=%23chapter-5)
+    
+- [Chapter 6: L'expertise de la piscine (Pas de sang)](https://www.google.com/search?q=%23chapter-6)
+    
+- [Chapter 7: La rivalité avec Doakes au commissariat](https://www.google.com/search?q=%23chapter-7)
+    
+- [Chapter 8: L'analyse des projections de sang](https://www.google.com/search?q=%23chapter-8)
+    
+- [Chapter 9: La vie avec Rita et les enfants](https://www.google.com/search?q=%23chapter-9)
+    
+- [Chapter 10: Le camion frigorifique et Lagarta](https://www.google.com/search?q=%23chapter-10)
+    
+- [Chapter 11: Le passé traumatique (La mère de Dexter)](https://www.google.com/search?q=%23chapter-11)
+    
+- [Chapter 12: L'interrogatoire et la psychologie du tueur](https://www.google.com/search?q=%23chapter-12)
+    
+- [Chapter 13: La vie de bureau et les donuts](https://www.google.com/search?q=%23chapter-13)
+    
+- [Chapter 14: Le site web de Jaworski (Snuff Movie)](https://www.google.com/search?q=%23chapter-14)
+    
+- [Chapter 15: La confrontation avec Dox (Doakes)](https://www.google.com/search?q=%23chapter-15)
+    
+- [Chapter 16: Les doutes de Deborah sur sa carrière](https://www.google.com/search?q=%23chapter-16)
+    
+- [Chapter 17: Dexter et les enfants de Rita (Cody et Astor)](https://www.google.com/search?q=%23chapter-17)
+    
+- [Chapter 18: L'analyse de l'arme blanche](https://www.google.com/search?q=%23chapter-18)
+    
+- [Chapter 19: Le jeu du tueur (Le message dans la maison)](https://www.google.com/search?q=%23chapter-19)
+    
+- [Chapter 20: Conclusion de l'épisode 1 (Le Code d'Harry)](https://www.google.com/search?q=%23chapter-20)
+    
+- [Chapter 21: Les rituels de nettoyage (Nettoyer le corps)](https://www.google.com/search?q=%23chapter-21)
+    
+- [Chapter 22: La métaphore de la pêche (Marlin)](https://www.google.com/search?q=%23chapter-22)
+    
+- [Chapter 23: L'education d'Harry (Doris Morgan)](https://www.google.com/search?q=%23chapter-23)
+    
+- [Chapter 24: Le chaos et l'ordre (Sang et projections)](https://www.google.com/search?q=%23chapter-24)
+    
+- [Chapter 25: La personnalité de Deborah (Cœur d'or)](https://www.google.com/search?q=%23chapter-25)
+    
+- [Chapter 26: La frustration des mœurs (Lagarta vs Deb)](https://www.google.com/search?q=%23chapter-26)
+    
+- [Chapter 27: L'autopsie mentale (Lumières de Dexter)](https://www.google.com/search?q=%23chapter-27)
+    
+- [Chapter 28: L'psychologie de l'assassin (Artiste)](https://www.google.com/search?q=%23chapter-28)
+    
+- [Chapter 29: Le cynisme de Doakes (Enfoiré)](https://www.google.com/search?q=%23chapter-29)
+    
+- [Chapter 30: Le grand vide intérieur (Conclusion)](https://www.google.com/search?q=%23chapter-30)
 
 <a name="chapter-1"></a>
 
